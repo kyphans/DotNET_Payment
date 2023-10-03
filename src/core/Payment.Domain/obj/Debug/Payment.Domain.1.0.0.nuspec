@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Payment.Domain</id>
+    <version>1.0.0</version>
+    <authors>Payment.Domain</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\pqky\source\repos\Payment\src\core\Payment.Domain\bin\Debug\net7.0\Payment.Domain.dll" target="lib\net7.0\Payment.Domain.dll" />
+  </files>
+</package>
