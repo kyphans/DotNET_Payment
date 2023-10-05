@@ -6,4 +6,15 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Merchant\Dtos\" />
+    <Folder Include="Features\PaymentTransaction\" />
+    <Folder Include="Features\PaymentSignature\" />
+    <Folder Include="Features\PaymentNotification\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
 </Project>
